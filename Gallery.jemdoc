@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{index.html}
+= WAGS \ \ (Welfare and Guidance for Strays)
+
+
+
+== Gallery
+
+~~~
+{}{raw}
+
+<div class="image123">
+    <div class="imageContainer">
+        <p>Dashboard</p>
+        <img src="./images/1.jpeg" width="180" />
+    </div>
+    <div class="imageContainer">
+        <p>Stray Database</p>
+        <img class="middle-img" src="./images/2.jpeg"/ width="180" />
+    </div>
+    <div class="imageContainer">    
+        <p>Map View</p>
+        <img src="./images/3.jpeg"/ width="180"/>
+    </div>
+</div>
+<div class="image123">
+    <div class="imageContainer">
+        <p>Stray Records</p>
+        <img src="./images/4.jpeg" width="180" />
+    </div>
+    <div class="imageContainer">
+        <p>Alerts</p>
+        <img class="middle-img" src="./images/5.jpeg"/ width="180" />
+    </div>
+    <div class="imageContainer">    
+        <p>Links and Whiteboard</p>
+        <img src="./images/6.jpeg"/ width="180"/>
+    </div>
+</div>
+
+~~~
+

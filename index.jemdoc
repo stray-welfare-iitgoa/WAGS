@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{index.html}
+= WAGS \ \ (Welfare and Guidance for Strays)
+
+=== Android App for Stray Animal Welfare.
+
+\n\n
+WAGS is developed by a student team at IIT Goa. It is meant for assisting animal lovers and volunteers in:
+  - Maintaining an open database of stray animals 
+  - Sharing alerts (for adoptions, lost\/found, injured animals etc)
+  - Sharing contacts for animal ambulances, veterinary services, stray-related laws, guidelines etc.
+  - Volunteer Networking
+
+~~~
+{}{img_left}{./images/wags.png}{wags_icon}{200}
+
+     \n\n
+	  Download the latest version (apk) here:
+     [https://github.com/Stray-Welfare-App/apk-release/raw/master/latest/app-release.apk *DOWNLOAD LINK*]
+
+     GitHub Repository for past versions: 
+     [https://github.com/Stray-Welfare-App/apk-release *GitHub link*]
+~~~
+
+
+=== Student Developer Team @ IIT Goa
+- Kartikey Sharma
+- Surya Shukla
+- Krishnaveni Unnikrishnan
+- Aditya Kosti
+- Harshvardhan Gupta
+
+=== Faculty Mentors
+- [https://nehakaranjkar.github.io/ Neha Karanjkar]
+- [https://clintpgeorge.github.io/ Clint P. George]
+
+=== Acknowledgement
+We thank Siemens for a CSR grant to IIT Goa which partly funded the development of this app via internships for student members.
+
+
