@@ -15,7 +15,7 @@ WAGS is developed by a student team at IIT Goa. It is meant for assisting animal
 - Kartikey Sharma
 - Surya Shukla
 - Krishnaveni Unnikrishnan
-- Aditya Kosti
+- Aditya Koshti
 - Harshvardhan Gupta
 
 ### Faculty Mentors
